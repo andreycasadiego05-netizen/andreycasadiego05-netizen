@@ -77,4 +77,4 @@ Soy desarrollador de software junior enfocado en desarrollo web. Me gusta constr
 
 ⭐ ¡Gracias por visitar mi perfil! ⭐
 
-</div>\
+</div>
