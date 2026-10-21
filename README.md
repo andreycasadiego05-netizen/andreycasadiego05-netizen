@@ -1,12 +1,8 @@
-<div align="center">
-
 # Hola, soy Thomas Andrey Arévalo 👋
 
 ### Desarrollador de software junior · Desarrollo web
 
 📍 Cúcuta, Colombia
-
-</div>
 
 ---
 
@@ -14,10 +10,10 @@
 
 Soy desarrollador de software junior enfocado en desarrollo web. Me gusta construir cosas que funcionen de principio a fin: desde la interfaz que ve el usuario hasta la base de datos que guarda la información.
 
-- 🌱 Aprendiendo front-end y bases de datos
-- 🤖 Automatizando procesos con **n8n**
-- ☕ Practicando lógica y programación orientada a objetos con **Java**
-- 🤝 Me gusta trabajar en equipo y aprender de cada proyecto
+- 🌱 Aprendiendo front-end y bases de datos.
+- 🤖 Automatizando procesos con **n8n**.
+- ☕ Practicando lógica y programación orientada a objetos con **Java**.
+- 🤝 Me gusta trabajar en equipo y aprender de cada proyecto.
 
 ---
 
@@ -28,9 +24,22 @@ Soy desarrollador de software junior enfocado en desarrollo web. Me gusta constr
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![eXeLearning](https://img.shields.io/badge/eXeLearning-2C3E50?style=for-the-badge&logoColor=white)
+
+---
+
+## 🤝 Habilidades blandas
+
+- **Adaptabilidad:** Aprendizaje rápido y disposición para asumir nuevos retos de desarrollo.
+- **Trabajo en equipo:** Colaboración en la estructuración de contenido y presentación visual de proyectos.
+- **Comunicación efectiva:** Capacidad para contribuir a una comunicación clara dentro del trabajo colaborativo.
+- **Creatividad:** Búsqueda de ideas y soluciones para desarrollar proyectos.
+- **Escucha activa:** Atención a las ideas y aportes de los demás para mejorar el trabajo en equipo.
+- **Enfoque colaborativo:** Disposición para contribuir al desarrollo de objetivos comunes.
 
 ---
 
@@ -51,6 +60,7 @@ Soy desarrollador de software junior enfocado en desarrollo web. Me gusta constr
 <div align="center">
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=andreycasadiego05-netizen&show_icons=true&theme=tokyonight&hide_border=true)
+
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=andreycasadiego05-netizen&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
@@ -59,7 +69,8 @@ Soy desarrollador de software junior enfocado en desarrollo web. Me gusta constr
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-andrey-arevalo-casadiego-430bb43b4/?isSelfProfile=true/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-andrey-arevalo-casadiego-430bb43b4/)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreycasadiego05@gmail.com)
 
 <div align="center">
