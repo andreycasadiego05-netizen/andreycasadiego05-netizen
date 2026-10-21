@@ -59,7 +59,7 @@ Soy desarrollador de software junior enfocado en desarrollo web. Me gusta constr
 
 ## 📫 Contacto
 
-[![LinkedIn](https://www.linkedin.com/in/thomas-andrey-arevalo-casadiego-430bb43b4/?isSelfProfile=true)
+[![LinkedIn](https://www.linkedin.com/in/thomas-andrey-arevalo-casadiego-430bb43b4/?isSelfProfile=true/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreycasadiego05@gmail.com)
 
 <div align="center">
