@@ -12,8 +12,6 @@
 
 📍 **Cúcuta, Colombia**
 
-<img src="https://komarev.com/ghpvc/?username=andreycasadiego05-netizen&label=Visitas&color=7B2FF7&style=for-the-badge" alt="Contador de visitas" />
-
 </div>
 
 ---
@@ -86,10 +84,6 @@ Soy desarrollador de software junior enfocado en desarrollo web. Me gusta constr
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=andreycasadiego05-netizen&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andreycasadiego05-netizen&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Gráfico de actividad" />
 
 </div>
 
