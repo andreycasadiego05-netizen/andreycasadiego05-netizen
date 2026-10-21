@@ -12,6 +12,8 @@
 
 📍 **Cúcuta, Colombia**
 
+<img src="https://hits.sh/github.com/andreycasadiego05-netizen.svg?style=for-the-badge&label=Visitas&color=7B2FF7&labelColor=0A66C2" alt="Contador de visitas" />
+
 </div>
 
 ---
@@ -84,6 +86,10 @@ Soy desarrollador de software junior enfocado en desarrollo web. Me gusta constr
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=andreycasadiego05-netizen&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/7B2FF7/andreycasadiego05-netizen" width="85%" alt="Gráfico de actividad" />
 
 </div>
 
